@@ -1,0 +1,139 @@
+
+body {
+    background-color: #dde6ef; /*light blue*/
+    width: 100%;
+    color: #222; /*dark gray*/
+    font-family: Arial;
+    font-size: 14px;
+}
+
+h1 {
+  color: #07294D;
+  font-family: Futura;
+  font-weight: bold condensed;
+  padding:10px;
+}
+
+#AboutUs {
+	width: 24%;
+	height: 40px;
+	font-size: 20px;
+}
+
+#Submit {
+	width: 24%;
+	height: 40px;
+	font-size: 20px;
+}
+
+#Location {
+	width: 24%;
+	height: 40px;
+	font-size: 20px;
+}
+
+#Contact {
+	width: 24%;
+	height: 40px;
+	font-size: 20px;
+}
+
+#SignIn {
+	width: 100%;
+	font-size: 20px;
+}
+
+#SearchBar {
+	margin-top: 10px;
+	width: 90%; 
+	height:20px; 
+	boder:solid 1px #f00;
+}
+
+#India {
+	margin-top: 20px;
+	width = 50%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#China {
+	margin-top: 20px;
+	width = 50%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#England {
+	margin-top: 20px;
+	width = 50%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#Thailand {
+	margin-top: 20px;
+	width = 50%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#USA {
+	margin-top: 20px;
+	width = 50%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#Canada {
+	margin-top: 20px;
+	width = 50%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#Content {
+	background-color: white;
+	width: 100%;
+	height: 700px;
+	overflow: auto;
+}
+
+#News {
+	bottom: 0;
+	width: 32.5%;
+	height: 40px;
+	font-size: 20px;
+}
+
+#Policy {
+	bottom: 0;
+	width: 32.5%;
+	height: 40px;
+	font-size: 20px;
+}
+
+#Banks {
+	bottom: 0;
+	width: 32.5%;
+	height: 40px;
+	font-size: 20px;
+}
+
+#InputText {
+	background-color: white;
+	width: 98%;
+	height: 700px;
+	overflow: auto;
+}
+
+p {
+    padding:10px;
+	font-size:40px;
+}
+
+footer{
+	position:absolute;
+	bottom:0;
+	width:100%;
+}
